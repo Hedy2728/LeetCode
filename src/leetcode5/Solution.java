@@ -11,8 +11,8 @@ class Solution{
             int len = Math.max(len1, len2);
 
             if (len > end - begin) {
-                end = i + len/2;
-                begin = i - len/2;
+                end = i + (len>>1);
+                begin = i - (len>>1);
 
             }
 
