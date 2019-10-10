@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bb1177-137b-449c-9f23-2dab26ec80bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode66/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode66/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode58/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode58/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode66/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode66/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode66/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode66/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -233,12 +231,12 @@
       <workItem from="1568635356459" duration="223000" />
       <workItem from="1569507196210" duration="1986000" />
       <workItem from="1569809275024" duration="586000" />
-      <workItem from="1569859565513" duration="7710000" />
+      <workItem from="1569859565513" duration="8323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32109000" />
+    <option name="totallyTimeSpent" value="32722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -358,16 +356,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode66/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode66/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
