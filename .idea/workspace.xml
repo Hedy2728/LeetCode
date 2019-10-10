@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bb1177-137b-449c-9f23-2dab26ec80bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode53/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode58/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode66/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode66/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode6/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode6/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode8/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode8/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode58/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode58/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,28 +29,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode53/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode66/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="391">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode58/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode8/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <entry file="file://$PROJECT_DIR$/src/leetcode66/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -82,6 +72,9 @@
         <option value="$PROJECT_DIR$/src/leetcode5/readme.md" />
         <option value="$PROJECT_DIR$/src/leetcode53/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode58/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode58/readme.md" />
+        <option value="$PROJECT_DIR$/src/leetcode66/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode66/readme.md" />
       </list>
     </option>
   </component>
@@ -112,7 +105,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode58" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode66" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,26 +141,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode6.Solution" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode8.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,6 +181,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode66.Solution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode66.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode5.Solution" />
       <module name="Leetcode" />
@@ -216,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +233,12 @@
       <workItem from="1568635356459" duration="223000" />
       <workItem from="1569507196210" duration="1986000" />
       <workItem from="1569809275024" duration="586000" />
-      <workItem from="1569859565513" duration="2706000" />
+      <workItem from="1569859565513" duration="7710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27105000" />
+    <option name="totallyTimeSpent" value="32109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -260,8 +253,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2686747" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.49879518" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2686747" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49879518" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,7 +263,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,17 +318,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode5/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode8/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode58/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode58/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -346,10 +349,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode58/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode5/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode66/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode66/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
