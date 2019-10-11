@@ -15,4 +15,5 @@ else {
 int aVal = a.length()-i >= 0 ? a.charAt(len1-i)-'0' : 0;
 int bVal = b.length()-i >= 0 ? b.charAt(len2-i)-'0' : 0;
 ```
+最近几道题都是关于字符串的处理问题，最重要是看out of index的异常
 

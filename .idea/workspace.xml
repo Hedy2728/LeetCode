@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bb1177-137b-449c-9f23-2dab26ec80bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode67/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode67/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode5/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode66/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode66/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode5/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode5/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode67/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode67/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/src/leetcode67/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <first_editor relative-caret-position="289">
+                <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -248,12 +243,12 @@
       <workItem from="1569507196210" duration="1986000" />
       <workItem from="1569809275024" duration="586000" />
       <workItem from="1569859565513" duration="16460000" />
-      <workItem from="1570788010657" duration="636000" />
+      <workItem from="1570788010657" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41495000" />
+    <option name="totallyTimeSpent" value="41714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -435,8 +430,8 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode67/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>
