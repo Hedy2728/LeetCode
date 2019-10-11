@@ -15,7 +15,6 @@ class Solution{
                 begin = i - (len>>1);
 
             }
-
         }
         return s.substring(begin, end+1);
     }
