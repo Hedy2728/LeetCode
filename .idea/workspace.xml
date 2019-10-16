@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bb1177-137b-449c-9f23-2dab26ec80bb" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/leetcode88/Solution.java" afterDir="false" />
+=======
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/leetcode83/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode83/Solution1.java" afterDir="false" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,22 +22,50 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+<<<<<<< HEAD
+=======
   </component>
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode5/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="250">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="14" selection-end-column="37" />
+=======
             <state relative-caret-position="272">
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode6/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hm_test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+      <file pinned="false" current-in-tab="true">
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
         <entry file="file://$PROJECT_DIR$/src/leetcode83/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -37,6 +73,7 @@
               <folding>
                 <element signature="class#ListNode#0" />
               </folding>
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
             </state>
           </provider>
         </entry>
@@ -44,8 +81,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode83/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="1150">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+=======
             <state relative-caret-position="255">
               <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
             </state>
           </provider>
         </entry>
@@ -86,6 +128,16 @@
         <option value="$PROJECT_DIR$/src/leetcode6/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode6/readme.md" />
         <option value="$PROJECT_DIR$/src/leetcode5/readme.md" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/hm_test/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-134" />
+    <option name="width" value="974" />
+    <option name="height" value="728" />
+=======
         <option value="$PROJECT_DIR$/src/leetcode53/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode58/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode58/readme.md" />
@@ -109,6 +161,7 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="811" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,15 +169,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+=======
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -132,14 +189,23 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="leetcode88" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="hm_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode83" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +235,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Solution (3)">
+=======
+  <component name="RunManager" selected="Application.test">
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode69.Solution" />
       <module name="Leetcode" />
@@ -235,9 +305,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm_test.test" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hm_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Solution (3)" />
+=======
+        <item itemvalue="Application.test" />
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution (1)" />
@@ -255,6 +342,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566286252019</updated>
+<<<<<<< HEAD
+      <workItem from="1566286254977" duration="21573000" />
+      <workItem from="1568082042686" duration="2674000" />
+=======
       <workItem from="1566286254977" duration="20974000" />
       <workItem from="1567000201595" duration="551000" />
       <workItem from="1568126879361" duration="79000" />
@@ -264,12 +355,30 @@
       <workItem from="1569859565513" duration="16460000" />
       <workItem from="1570788010657" duration="2453000" />
       <workItem from="1570967558545" duration="2312000" />
+<<<<<<< HEAD
       <workItem from="1571058128244" duration="1609000" />
+=======
+      <workItem from="1571058128244" duration="126000" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="47233000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="24247000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1076759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+=======
+    <option name="totallyTimeSpent" value="45750000" />
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -277,15 +386,24 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.18383405" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.17739628" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
+<<<<<<< HEAD
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27006507" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4989154" />
+=======
       <window_info id="Favorites" order="6" sideWeight="0.50089765" side_tool="true" weight="0.17739628" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30361447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49879518" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -294,7 +412,11 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+=======
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,6 +431,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hm_test/test.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://E:/JAVA/JDK1.8.0/src.zip!/java/lang/NumberFormatException.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode8/readme.md">
@@ -322,6 +456,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode6/readme.md">
+<<<<<<< HEAD
+=======
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="25">
@@ -357,6 +493,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode58/readme.md">
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
@@ -366,6 +503,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="jar://E:/JAVA/JDK1.8.0/src.zip!/java/lang/String.java">
+=======
     <entry file="file://$PROJECT_DIR$/src/leetcode58/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -374,6 +514,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode53/Solution.java">
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -392,8 +533,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode66/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="250">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode8/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+=======
         <state relative-caret-position="102">
           <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
         </state>
       </provider>
     </entry>
@@ -454,13 +607,31 @@
     <entry file="file://$PROJECT_DIR$/src/leetcode69/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+=======
           <first_editor relative-caret-position="85">
             <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/leetcode6/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm_test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
     <entry file="file://$PROJECT_DIR$/src/leetcode69/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -518,8 +689,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode88/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="476">
           <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+=======
+        <state relative-caret-position="187">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="class#ListNode#0" />
+          </folding>
+>>>>>>> 9bf498914b7e82b5cab6f44c99d9b29914b3732b
+>>>>>>> 0ae89ea4c39e7c00b1c2175456baadc09f0c2e53
         </state>
       </provider>
     </entry>
