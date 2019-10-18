@@ -15,4 +15,25 @@ public class Solution1 {
         pre.next = cur; //迭代到最后因为cur为null的时候就跳出循环了，没有执行最后的去重，所以加一句让链表末尾没有重复节点
         return head;
     }
+
+    public static void main(String[] args) {
+        ListNode p1 = new ListNode(1);
+        ListNode p2 = new ListNode(1);
+        ListNode p3 = new ListNode(2);
+        ListNode p4 = new ListNode(3);
+        ListNode p5 = new ListNode(3);
+
+        p1.next = p2;
+        p2.next = p3;
+        p3.next = p4;
+        p4.next = p5;
+
+        ListNode temp = p1;
+
+        while (temp != null) {
+            System.out.println(temp.val);
+            temp = temp.next;
+        }
+
+    }
 }
