@@ -6,6 +6,7 @@ public class Solution3 {
         int valley = prices[0];
         int peak = prices[0];
         int maxprofit = 0;
+//        先找局部最优值，再找局部最大值
         while (i < prices.length - 1) {
             while (i < prices.length - 1 && prices[i] >= prices[i + 1])
                 i++;

@@ -14,6 +14,7 @@ public class Solution {
         if(length==0||length==1){
             return 0; //异常情况
         }
+
         next=prices[0];
         for(int i=0;i<length-1;i++){ //从第二个价格开始
             now=next;
