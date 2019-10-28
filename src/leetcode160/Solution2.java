@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Solution2 {
+//    the real instance can not accept, because node definition is some wrong
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         Set<ListNode> nodes = new HashSet<>();
         ListNode a = headA;
