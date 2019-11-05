@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b6d709-86ad-476d-a844-f1038fc8941f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode112/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode112/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode112/Solution2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode112/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="21" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="561">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#226#236#0" expanded="true" />
@@ -269,12 +269,12 @@
       <updated>1571406253965</updated>
       <workItem from="1571406256679" duration="5968000" />
       <workItem from="1572098430751" duration="16258000" />
-      <workItem from="1572955279051" duration="2535000" />
+      <workItem from="1572955279051" duration="2704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24761000" />
+    <option name="totallyTimeSpent" value="24930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -595,8 +595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode112/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="561">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#226#236#0" expanded="true" />

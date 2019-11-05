@@ -31,6 +31,7 @@ public class Solution2 {
             if (node.right != null) {
                 stack.push(node.right);
                 sums.push(value-node.val);
+                
             }
         }
         return false;
