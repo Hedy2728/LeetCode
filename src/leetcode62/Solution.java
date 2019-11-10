@@ -3,7 +3,7 @@ package leetcode62;
 public class Solution {
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
-        dp[0][0] = 0;
+        dp[0][0] = 1;
 
         for (int x = 1; x < m; x++) {
             dp[x][0] = 1;
