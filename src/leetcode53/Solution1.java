@@ -1,7 +1,8 @@
 package leetcode53;
 
-import java.util.Arrays;
-
+/*this is for solving the begin and end position of thr maxSubArray ,
+* and it is the existence of dp array that we can confirm the start position and mark the flag whether it's 0 or 1
+* */
 public class Solution1 {
     public int maxSubArray(int[] nums) {
         if(nums.length == 0) {
