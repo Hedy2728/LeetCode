@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b6d709-86ad-476d-a844-f1038fc8941f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode53/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode53/Solution3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/leetcode53/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/leetcode53/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode53/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode53/Solution1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/leetcode53/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="15" />
+            <state relative-caret-position="680">
+              <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -105,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/leetcode155/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode155/MinStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode167/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode53/Solution3.java" />
         <option value="$PROJECT_DIR$/src/leetcode53/Solution1.java" />
       </list>
     </option>
@@ -175,19 +178,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Solution1">
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode136.Solution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode136.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode141.Solution" />
       <module name="Leetcode" />
@@ -240,13 +230,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode53.Solution3" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode53.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -262,12 +265,12 @@
       <updated>1571406253965</updated>
       <workItem from="1571406256679" duration="5968000" />
       <workItem from="1572098430751" duration="16258000" />
-      <workItem from="1572955279051" duration="9452000" />
+      <workItem from="1572955279051" duration="12288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31678000" />
+    <option name="totallyTimeSpent" value="34514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -704,10 +707,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode53/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode53/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="15" />
+        <state relative-caret-position="680">
+          <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
         </state>
       </provider>
     </entry>

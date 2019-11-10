@@ -10,6 +10,9 @@ public class Solution1 {
         if(nums.length == 1) {
             return nums[0];
         }
+        int start = 0;
+        int end = 0;
+        int flag = 0;
         int[] dp = new int[nums.length];
         dp[0] = nums[0];
         int sum = nums[0];
@@ -19,15 +22,25 @@ public class Solution1 {
             }
             else{
                 dp[i] = nums[i];
+                flag = 0;
             }
-            sum = Math.max(dp[i], sum);
+            if (dp[i] > sum) {
+                sum = dp[i];
+                if ((flag++) == 0) {
+                    start =i;
+                }
+                end = i;
+            }
         }
-
+        System.out.println("start = "+start);
+        System.out.println("end = "+end);
         return sum;
     }
 
     public static void main(String[] args) {
-        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
+//        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
+//        int[] nums = {-21,2};
+        int[] nums = {-4, -1, -2, 2};
         System.out.println(new Solution1().maxSubArray(nums));
     }
 }
