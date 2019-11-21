@@ -11,7 +11,7 @@ public class Solution {
         if (root.left != null || root.right != null) {
 
         }
-
+        return sum;
 
     }
 
