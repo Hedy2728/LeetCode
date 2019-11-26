@@ -18,12 +18,13 @@ public class Solution2 {
         while (!stack.isEmpty()) {
             TreeNode node = stack.pop();
             list.add(node.val);
-            if (node.right != null) {
-                stack.push(node.right);
-            }
             if (node.left != null) {
                 stack.push(node.left);
             }
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+
         }
         Collections.reverse(list);
         return list;
