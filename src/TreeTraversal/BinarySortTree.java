@@ -107,11 +107,13 @@ public class BinarySortTree {
     public void midOrderTraverseNoRecursion(TreeNode root) {
         LinkedList<TreeNode> stack = new LinkedList<TreeNode>();
         TreeNode currentNode = root;
+
         while (currentNode != null || !stack.isEmpty()) {
             while (currentNode != null) {
                 stack.push(currentNode);
                 currentNode = currentNode.left;
             }
+
             currentNode = stack.pop();
             System.out.print(currentNode.val + " ");
             currentNode = currentNode.right;
