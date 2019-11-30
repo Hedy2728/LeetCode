@@ -16,6 +16,8 @@ public class Solution {
         tranverse(node.right);
         sum += node.val;
         node.val = sum;
+
+        
         tranverse(node.left);
     }
 }
