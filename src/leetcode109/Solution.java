@@ -16,6 +16,7 @@ public class Solution {
         if (head ==null || head == tail) {
             return null;
         }
+//        use fast-slow pointer to find the root which is the middle number of the sorted list
         ListNode slow = head;
         ListNode fast = head;
         while (fast.next != tail && fast.next.next != tail) {
