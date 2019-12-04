@@ -1,65 +1,74 @@
 package leetcode208;
 
-class TrieNode {
-    //存储子节点
-    TrieNode[]  children=new TrieNode[26];
-    //存储一条记录，即对应一个单词
-    String item="";
-    // Initialize your data structure here.
-    public TrieNode() {
-
+class Trie {
+    private class Node{
+        Node[] childs = new Node[26];
+        boolean isLeaf;
     }
-}
 
-public class Trie {
-    private TrieNode root;
+    private Node root = new Node();
 
     public Trie() {
-        root = new TrieNode();
+
     }
 
-    // Inserts a word into the trie.
     public void insert(String word) {
-        TrieNode node=this.root;
-        for(char c:word.toCharArray())
-        {
-            if(node.children[c-'a']==null)
-            {
-                node.children[c-'a']=new TrieNode();
-            }
-            node=node.children[c-'a'];
-        }
-        node.item=word;
-
+        insert(word, root);
     }
 
-    // Returns if the word is in the trie.
+    private void insert(String word, Node node) {
+        if (node == null) {
+            return;
+        }
+        if (word.length() == 0) {
+            node.isLeaf = true;
+            return;
+        }
+        int index = indexForChar(word.charAt(0));
+        if (node.childs[index] == null) {
+            node.childs[index] = new Node();
+        }
+        insert(word.substring(1), node.childs[index]);
+    }
+
     public boolean search(String word) {
-        TrieNode node=this.root;
-        for(char c:word.toCharArray())
-        {
-            if(node.children[c-'a']==null)
-            {
-                return false;
-            }
-            node=node.children[c-'a'];
+        return search(word, root);
+    }
+    private boolean search(String word, Node node) {
+        if (node == null) {
+            return false;
         }
-        return node.item.equals(word);
+        if (word.length() == 0) {
+            return node.isLeaf;
+        }
+        int index = indexForChar(word.charAt(0));
+        return search(word.substring(1),node.childs[index]);
     }
 
-    // Returns if there is any word in the trie
-    // that starts with the given prefix.
-    public boolean startsWith(String prefix) {
-        TrieNode node=this.root;
-        for(char c:prefix.toCharArray())
-        {
-            if(node.children[c-'a']==null)
-            {
-                return false;
-            }
-            node=node.children[c-'a'];
+    public boolean startWith(String prefix) {
+        return startWith(prefix, root);
+    }
+
+    private boolean startWith(String prefix, Node node) {
+        if (node == null) {
+            return false;
         }
-        return true;
+        if (prefix.length() == 0) {
+            return true;
+        }
+        int index = indexForChar(prefix.charAt(0));
+        return startWith(prefix.substring(1), node.childs[index]);
+    }
+    private int indexForChar(char ch) {
+        return ch-'a';
+    }
+
+    public static void main(String[] args) {
+        Trie t = new Trie();
+        t.insert("abc");
+//        boolean b = t.search("abc");
+        boolean c = t.startWith("a");
+        System.out.println(c);
     }
 
 }
