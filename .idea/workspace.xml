@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b6d709-86ad-476d-a844-f1038fc8941f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode215/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode215/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode215/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="285">
+              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding>
                 <element signature="e#853#854#0" expanded="true" />
                 <element signature="e#882#883#0" expanded="true" />
@@ -83,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode215/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -92,17 +91,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hm/zju/MinHeap/SetTopK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="214">
               <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="542">
+              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -168,11 +167,11 @@
         <option value="$PROJECT_DIR$/src/leetcode208/Trie2.java" />
         <option value="$PROJECT_DIR$/src/leetcode208/Trie.java" />
         <option value="$PROJECT_DIR$/src/leetcode677/MapSum.java" />
-        <option value="$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java" />
         <option value="$PROJECT_DIR$/src/hm/zju/MinHeap/SetTopK.java" />
         <option value="$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/leetcode215/findKthLargest.java" />
         <option value="$PROJECT_DIR$/src/leetcode215/Solution.java" />
+        <option value="$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java" />
       </list>
     </option>
   </component>
@@ -318,12 +317,12 @@
       <workItem from="1571406256679" duration="5968000" />
       <workItem from="1572098430751" duration="16258000" />
       <workItem from="1572955279051" duration="54577000" />
-      <workItem from="1575441833422" duration="10804000" />
+      <workItem from="1575441833422" duration="12370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87607000" />
+    <option name="totallyTimeSpent" value="89173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -505,17 +504,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode62/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode63/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -950,35 +938,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/hm/zju/MinHeap/SetTopK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="214">
           <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode215/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/hm/zju/MinHeap/MinHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

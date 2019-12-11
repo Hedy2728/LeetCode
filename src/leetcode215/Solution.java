@@ -15,7 +15,7 @@ public class Solution {
                 heap.setRoot(nums[i]);
             }
         }
-        return nums[nums.length-k-1];
+        return topk[topk.length-k];
     }
 
     public static void main(String[] args) {

@@ -13,7 +13,7 @@ public class MinHeap {
     }
 
     private void heapify(int i) {
-        int l = (i+1) << 1 - 1;
+        int l = ((i+1) << 1) - 1;
         int r = (i+1) << 1;
         int smallest = i;
 
@@ -21,7 +21,7 @@ public class MinHeap {
             smallest = r;
         }
 
-        if (l < data.length && data[l] < data[i]) {
+        if (l < data.length && data[l] < data[smallest]) {
             smallest = l;
         }
 
