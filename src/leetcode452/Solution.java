@@ -24,7 +24,6 @@ public class Solution {
             }
             end = points[i][1];
             cnt++;
-            
         }
         return cnt;
     }
