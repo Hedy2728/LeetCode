@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b6d709-86ad-476d-a844-f1038fc8941f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hm_test/JavaIO_Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm_test/JavaExceptionTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm_test/JavaSocket/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm_test/JavaSocket/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hm_test/JavaSocket/SocketHttpClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,41 +21,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hm_test/java_test/SysConstant.java">
+        <entry file="file://$PROJECT_DIR$/src/hm_test/JavaExceptionTest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hm_test/java_test2/stack2_queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="206">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
               <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hm_test/JavaIO_Test/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/hm_test/JavaSocket/SocketHttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hm_test/java_test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="290">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,11 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode145/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/leetcode145/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode145/Solution4.java" />
-        <option value="$PROJECT_DIR$/src/leetcode94/Solution.java" />
-        <option value="$PROJECT_DIR$/src/TreeTraversal/BinarySortTree.java" />
         <option value="$PROJECT_DIR$/src/leetcode94/Solution2.java" />
         <option value="$PROJECT_DIR$/src/hm_test/PostOrderTest.java" />
         <option value="$PROJECT_DIR$/src/leetcode669/Solution.java" />
@@ -132,6 +114,11 @@
         <option value="$PROJECT_DIR$/src/hm_test/java_test2/stack2_queue.java" />
         <option value="$PROJECT_DIR$/src/hm_test/JavaIO_Test/BinaryFileReadWrite/Test.java" />
         <option value="$PROJECT_DIR$/src/hm_test/JavaIO_Test/Test.java" />
+        <option value="$PROJECT_DIR$/src/hm_test/JavaExceptionTest/MyException1.java" />
+        <option value="$PROJECT_DIR$/src/hm_test/JavaExceptionTest/Main.java" />
+        <option value="$PROJECT_DIR$/src/hm_test/JavaSocket/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/hm_test/JavaSocket/SocketHttpClient.java" />
+        <option value="$PROJECT_DIR$/src/hm_test/JavaSocket/Application.java" />
       </list>
     </option>
   </component>
@@ -170,7 +157,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hm_test" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaIO_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSocket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,13 +184,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="SysConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hm_test.java_test.SysConstant" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm_test.JavaSocket.Application" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hm_test.java_test.*" />
+          <option name="PATTERN" value="hm_test.JavaSocket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hm_test.java_test.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hm_test.JavaExceptionTest.Main" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hm_test.java_test.*" />
+          <option name="PATTERN" value="hm_test.JavaExceptionTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.stack2_queue" />
         <item itemvalue="Application.TestReflection" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.SysConstant" />
       </list>
     </recent_temporary>
   </component>
@@ -287,18 +274,18 @@
       <workItem from="1572098430751" duration="16258000" />
       <workItem from="1572955279051" duration="54577000" />
       <workItem from="1575441833422" duration="29897000" />
-      <workItem from="1580116153786" duration="7761000" />
+      <workItem from="1580116153786" duration="11032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114461000" />
+    <option name="totallyTimeSpent" value="117732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="726" y="0" width="714" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39285713" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36160713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,40 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="345" selection-start-line="345" selection-end-line="345" />
-          <folding>
-            <element signature="e#12913#12914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode538/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode235/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode109/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode230/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -895,8 +848,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hm_test/JavaIO_Test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="177" column="14" selection-start-line="177" selection-start-column="14" selection-end-line="177" selection-end-column="14" />
+        <state relative-caret-position="224">
+          <caret line="157" column="9" lean-forward="true" selection-start-line="157" selection-start-column="9" selection-end-line="157" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm_test/JavaExceptionTest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm_test/JavaSocket/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm_test/JavaSocket/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm_test/JavaSocket/SocketHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
