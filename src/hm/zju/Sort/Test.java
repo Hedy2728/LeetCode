@@ -19,7 +19,8 @@ public class Test {
 //        nums = new HeapSort(nums).getNums(); // 堆排序
 //        new MergeSort().mergeSort(nums); // 归并排序
 //        new SelectSort().selectSort(nums); // 选择排序
-        new QuickSort().quickSort(nums, 0, nums.length-1); //快速排序
+//        new QuickSort().quickSort(nums, 0, nums.length-1); //快速排序
+        new QuickSort_DigHole(nums).digHole(0,nums.length-1);
         System.out.println(Arrays.toString(nums));
 
     }
