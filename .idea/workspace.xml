@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b6d709-86ad-476d-a844-f1038fc8941f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hm/zju/Sort/QuickSort_DigHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode206/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hm/zju/Sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm/zju/Sort/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hm_test/JavaSocket/MultiThreadApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm_test/JavaSocket/MultiThreadApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/hm/zju/LRUCache/LRUCache2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/hm/zju/LRUCache/LRUCache2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hm_test/JavaSocket/SocketHttpClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,11 +36,20 @@
         <entry file="file://$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#96#97#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode206/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -103,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hm/zju/Sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -154,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode230/Solution1.java" />
         <option value="$PROJECT_DIR$/src/leetcode538/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode235/Solution.java" />
         <option value="$PROJECT_DIR$/src/leetcode109/Solution.java" />
@@ -202,9 +196,10 @@
         <option value="$PROJECT_DIR$/src/hm_test/JavaSocket/Application.java" />
         <option value="$PROJECT_DIR$/src/hm_test/JavaSocket/MultiThreadApplication.java" />
         <option value="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java" />
         <option value="$PROJECT_DIR$/src/hm/zju/Sort/Test.java" />
         <option value="$PROJECT_DIR$/src/hm/zju/Sort/QuickSort_DigHole.java" />
+        <option value="$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java" />
+        <option value="$PROJECT_DIR$/src/leetcode206/Solution.java" />
       </list>
     </option>
   </component>
@@ -236,14 +231,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zju" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zju" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode206" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.LRUCache2">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hm_test.JavaSocket.Application" />
       <module name="Leetcode" />
@@ -338,8 +326,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.LRUCache2" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Main" />
@@ -362,12 +350,12 @@
       <workItem from="1575441833422" duration="29897000" />
       <workItem from="1580116153786" duration="11818000" />
       <workItem from="1580810093247" duration="324000" />
-      <workItem from="1581066364871" duration="10801000" />
+      <workItem from="1581066364871" duration="11367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129643000" />
+    <option name="totallyTimeSpent" value="130209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -555,16 +543,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode501/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode208/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode208/Trie2.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode215/findKthLargest.java" />
@@ -911,17 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hm/zju/Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -979,6 +946,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hm/zju/LRUCache/LRUCache2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode206/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>

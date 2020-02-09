@@ -8,9 +8,8 @@ public class LRUCache2 {
 
     public static void main(String[] args) {
 //        String str2 = new String("str")+new String("01");
-        String str2 = new String("str01");
-        str2.intern();
-        String str1 = "str01";
-        System.out.println(str2==str1);//true
+       int a = 200;
+       int b = 200;
+        System.out.println(a==b);
     }
 }
