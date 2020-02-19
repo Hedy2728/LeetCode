@@ -16,11 +16,11 @@ public class Test {
         int[] nums = {2,1,3,4,5};
 //        new BubbleSort().Bubble(nums); //冒泡排序
 //        new InsertSort().insertSort(nums); //插入排序
-//        nums = new HeapSort(nums).getNums(); // 堆排序
+        new HeapSort().heapSort(nums); // 堆排序
 //        new MergeSort().mergeSort(nums); // 归并排序
 //        new SelectSort().selectSort(nums); // 选择排序
 //        new QuickSort().quickSort(nums, 0, nums.length-1); //快速排序
-        new QuickSort_DigHole(nums).digHole(0,nums.length-1);
+//        new QuickSort_DigHole(nums).digHole(0,nums.length-1);
         System.out.println(Arrays.toString(nums));
 
     }
