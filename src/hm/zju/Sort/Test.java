@@ -22,6 +22,5 @@ public class Test {
 //        new QuickSort().quickSort(nums, 0, nums.length-1); //快速排序
 //        new QuickSort_DigHole(nums).digHole(0,nums.length-1);
         System.out.println(Arrays.toString(nums));
-
     }
 }
