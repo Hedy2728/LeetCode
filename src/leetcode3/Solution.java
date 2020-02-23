@@ -23,5 +23,6 @@ public class Solution {
     public static void main(String[] args) {
         String s = "qrsvbspk";
         System.out.println(new Solution().lengthOfLongestSubstring(s));
+
     }
 }
