@@ -8,6 +8,7 @@ public class Solution {
             return null;
         }
         s = s.trim();
+        System.out.println(s.length());
         int len = s.length();
         int end = len;
         StringBuilder sb = new StringBuilder();
@@ -27,10 +28,11 @@ public class Solution {
 
     public static void main(String[] args) {
         String s = "  hello   world!";
-        String[] ss = s.split(" ");
-        for (String t : ss) {
-            System.out.println(t);
-        }
-//        System.out.println(new Solution().reverseWords(s));
+//        String[] ss = s.split(" ");
+//        for (String t : ss) {
+//            System.out.println(t);
+//        }
+        System.out.println(new Solution().reverseWords(s));
+        System.out.println(new Solution().reverseWords(s).length());
     }
 }

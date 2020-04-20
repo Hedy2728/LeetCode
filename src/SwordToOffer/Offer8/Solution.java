@@ -13,6 +13,7 @@ class TreeLinkNode {
     }
 }
 
+
 public class Solution {
     public TreeLinkNode GetNext(TreeLinkNode pNode){
         if (pNode == null) {

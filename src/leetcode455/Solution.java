@@ -19,8 +19,28 @@ public class Solution {
         return gi;
     }
 
+    public int findContentChildren1(int[] g, int[] s) {
+        if(g == null || s == null) {
+            return 0;
+        }
+
+        Arrays.sort(g);
+        Arrays.sort(s);
+
+        int i = 0, j = 0;
+        int count = 0;
+        while (i < g.length && j < s.length) {
+            if (g[i] <= s[j]) {
+                count++;
+                i++;
+            }
+            j++;
+        }
+        return count;
+    }
+
     public static void main(String[] args) {
-        int[] g = {1,2,3}, s = {1,2,3,4};
-        System.out.println(new Solution().findContentChildren(g,s));
+        int[] g = {1,2,6}, s = {1,2,3,4};
+        System.out.println(new Solution().findContentChildren1(g,s));
     }
 }
